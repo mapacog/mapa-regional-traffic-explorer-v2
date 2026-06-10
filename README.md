@@ -6,12 +6,11 @@ The tool brings together regional traffic patterns, top intersections, major int
 
 ## About the Dashboard
 
-This prototype is designed to make regional traffic information easier to explore through:
+This is designed to make regional traffic information easier to explore through:
 
-- Summary cards
+
 - Ranked intersection and interchange views
 - Regional traffic pattern highlights
-- Static report visuals
 - Mobile-friendly layouts
 
 ## Data Sources
@@ -22,4 +21,4 @@ The dashboard is based on MAPA’s 2021–2022 regional traffic reports, includi
 - Top Traffic Intersections
 - Top Traffic Interchanges
 
-Some map and chart elements are placeholders and may be updated as additional GIS layers or source tables become available.
+Some map and chart elements are placeholders and will be updated as additional GIS layers or source tables become available.
